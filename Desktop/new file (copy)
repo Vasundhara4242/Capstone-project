@@ -1,0 +1,8 @@
+/home/ubuntu/Downloads/Assignments/Capstone
+
+step4---->Documents/GitNew/Step3
+
+/home/ubuntu/Desktop/Angular4/Step4
+
+.requestMatchers( PathRequest.toStaticResources().atCommonLocations())
+                .permitAll()
